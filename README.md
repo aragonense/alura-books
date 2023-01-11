@@ -1,7 +1,4 @@
-[
-![GitHub last commit](https://camo.githubusercontent.com/f3819a8c9750659a6cfe7706d811acb1a3a6c0c67f7e20fb165f9c5af5912724/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f70656a616d702f61646f7065742d616c7572616368616c6c656e67653f636f6c6f723d333644364144267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d333737324646)](https://camo.githubusercontent.com/f3819a8c9750659a6cfe7706d811acb1a3a6c0c67f7e20fb165f9c5af5912724/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f70656a616d702f61646f7065742d616c7572616368616c6c656e67653f636f6c6f723d333644364144267374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d333737324646)
-
- [](https://github.com/pejamp/adopet-alurachallenge#----)[![AluraGeek](https://github.com/pejamp/adopet-alurachallenge/raw/main/src/assets/Capa.png)](https://github.com/pejamp/adopet-alurachallenge/blob/main/src/assets/Capa.png)
+[](https://github.com/pejamp/adopet-alurachallenge#----)[![AluraGeek](https://github.com/pejamp/adopet-alurachallenge/raw/main/src/assets/Capa.png)](https://github.com/pejamp/adopet-alurachallenge/blob/main/src/assets/Capa.png)
 
 # [](https://github.com/pejamp/adopet-alurachallenge#adopet-)Alura Books 
 
