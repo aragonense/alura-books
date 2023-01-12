@@ -32,6 +32,3 @@
     background-repeat: no-repeat;
     background-position: 1em;
 }
-.banner__pesquisa::before{
-    content: url("../img/Pesquisa.svg");
-}
